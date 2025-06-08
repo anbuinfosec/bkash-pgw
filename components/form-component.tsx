@@ -211,7 +211,7 @@ const FormComponent = () => {
           <div className="px-6 py-4 bg-gray-50 dark:bg-gray-700 border-t border-gray-200 dark:border-gray-600">
             <div className="text-center">
               <a
-                href="https://github.com/anbuinfosec/nextjs-bkash-payment-with-sandbox"
+                href="https://github.com/anbuinfosec/bkash-pgw"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm text-blue-600 hover:text-blue-500 dark:text-blue-400 dark:hover:text-blue-300 transition-colors"
