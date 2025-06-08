@@ -17,7 +17,7 @@ export const config = {
       "https://tokenized.sandbox.bka.sh/v1.2.0-beta/tokenized/checkout/payment/refund",
   },
   urls: {
-    baseUrl: process.env.NEXT_PUBLIC_URL || "https://bkash-pgw.vercel.app/",
+    baseUrl: process.env.NEXT_PUBLIC_URL || "https://bkash-pgw.vercel.app",
   },
 }
 
